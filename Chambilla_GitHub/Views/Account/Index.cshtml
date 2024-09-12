@@ -1,0 +1,68 @@
+﻿@model Chambilla_GitHub.Models.AccountViewModel
+
+<h2>Registro y Login</h2>
+
+@if (ViewBag.LoginMessage != null)
+{
+    <p style="color: green;">@ViewBag.LoginMessage</p>
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <p style="color: red;">@ViewBag.ErrorMessage</p>
+}
+
+<!-- Formulario de Registro -->
+<h3>Registro</h3>
+<form asp-action="Register" method="post">
+    <div>
+        <label>Nombre</label>
+        <input asp-for="Usuario.Nombre" />
+        <span asp-validation-for="Usuario.Nombre"></span>
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Usuario.Email" />
+        <span asp-validation-for="Usuario.Email"></span>
+    </div>
+    <div>
+        <label>Contraseña</label>
+        <input asp-for="Usuario.Password" type="password" />
+        <span asp-validation-for="Usuario.Password"></span>
+    </div>
+    <button type="submit">Registrarse</button>
+    @if (Model.RegistroError != null)
+    {
+        <p style="color: red;">@Model.RegistroError</p>
+    }
+</form>
+
+<!-- Formulario de Login -->
+<h3>Login</h3>
+<form asp-action="Login" method="post">
+    <div>
+        <label>Email</label>
+        <input type="email" name="email" />
+    </div>
+    <div>
+        <label>Contraseña</label>
+        <input type="password" name="password" />
+    </div>
+    <button type="submit">Iniciar Sesión</button>
+</form>
+
+<!-- Tabla de Usuarios -->
+<h3>Usuarios Registrados</h3>
+<table border="1">
+    <tr>
+        <th>Nombre</th>
+        <th>Email</th>
+    </tr>
+    @foreach (var usuario in Model.Usuarios)
+    {
+        <tr>
+            <td>@usuario.Nombre</td>
+            <td>@usuario.Email</td>
+        </tr>
+    }
+</table>

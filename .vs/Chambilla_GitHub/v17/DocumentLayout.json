@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebII\\Chambilla_GitHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|d:\\webii\\chambilla_github\\chambilla_github\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|solutionrelative:chambilla_github\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|d:\\webii\\chambilla_github\\chambilla_github\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|solutionrelative:chambilla_github\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|d:\\webii\\chambilla_github\\chambilla_github\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|solutionrelative:chambilla_github\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|d:\\webii\\chambilla_github\\chambilla_github\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|solutionrelative:chambilla_github\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|d:\\webii\\chambilla_github\\chambilla_github\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE9F34C-11C0-43FF-BEA6-03E73FEEA82D}|Chambilla_GitHub\\Chambilla_GitHub.csproj|solutionrelative:chambilla_github\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Chambilla_GitHub\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Chambilla_GitHub\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:45:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Chambilla_GitHub\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Chambilla_GitHub\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T15:42:54.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Models\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "Chambilla_GitHub\\Models\\AccountViewModel.cs",
+              "ToolTip": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Models\\AccountViewModel.cs",
+              "RelativeToolTip": "Chambilla_GitHub\\Models\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:42:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Chambilla_GitHub\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Chambilla_GitHub\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:33:38.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Chambilla_GitHub\\Models\\Usuario.cs",
+              "ToolTip": "D:\\WebII\\Chambilla_GitHub\\Chambilla_GitHub\\Models\\Usuario.cs",
+              "RelativeToolTip": "Chambilla_GitHub\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:33:03.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
